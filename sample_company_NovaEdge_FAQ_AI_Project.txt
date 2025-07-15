@@ -1,0 +1,453 @@
+Master Organization Document: NovaEdge Consulting
+
+1. Company Overview
+NovaEdge Consulting is a hybrid technology and strategy consulting firm dedicated to empowering clients through tailored digital solutions. Founded in 2016, we operate globally, with headquarters in San Francisco and satellite offices in New York, Chicago, London, and Bangalore. We bridge the gap between strategic advisory and software delivery, offering end-to-end solutions across various sectors including healthcare, financial services, retail, logistics, and manufacturing.
+Our core values are:
+Integrity First: Do the right thing, even when no one is watching.
+
+
+Client Obsession: Drive impact by deeply understanding client needs.
+
+
+Innovate Boldly: Be curious and solve problems creatively.
+
+
+Collaborate and Elevate: Work together, lift each other up.
+
+
+Own It: Take initiative and deliver excellence.
+
+
+
+2. Organizational Structure
+CEO: Amrita Sinha
+
+
+COO: Marcus Blanchard
+
+
+Chief Technology Officer (CTO): Priya Sharma
+
+
+Chief Strategy Officer (CSO): Daniel Kwame
+
+
+Director of Engineering: Vivian Tran
+
+
+Director of Consulting Services: Rajeev Kapoor
+
+
+HR & Culture Lead: Hannah Ortiz
+
+
+Departments:
+Strategy Consulting
+
+
+Technical Solutions (Engineering)
+
+
+Data & Analytics
+
+
+UI/UX Design
+
+
+Project Management Office (PMO)
+
+
+People Operations
+
+
+Marketing & Client Success
+
+
+
+3. Tech Stack & Tools
+We use a broad and modern tech stack tailored to each project:
+Backend:
+Node.js (Express, Nest.js)
+
+
+Python (Flask, Django, FastAPI)
+
+
+Java (Spring Boot)
+
+
+Frontend:
+React.js
+
+
+Angular
+
+
+Vue.js
+
+
+Mobile:
+React Native
+
+
+Flutter
+
+
+Native Android/iOS (for specialized projects)
+
+
+Cloud:
+AWS (primary)
+
+
+Azure
+
+
+GCP
+
+
+DevOps & Infra:
+Docker
+
+
+Kubernetes
+
+
+Terraform
+
+
+GitHub Actions
+
+
+Jenkins
+
+
+Data & ML:
+Pandas, NumPy, Scikit-learn
+
+
+PyTorch, TensorFlow
+
+
+Databricks
+
+
+Snowflake
+
+
+dbt
+
+
+Design:
+Figma
+
+
+Adobe XD
+
+
+Storybook
+
+
+Project Tools:
+Jira (Kanban & Agile sprints)
+
+
+Confluence (Documentation)
+
+
+Slack (Internal Communication)
+
+
+Notion (Lightweight Notes)
+
+
+ClickUp (Client-specific projects)
+
+
+
+4. Project Types
+We offer two main service categories:
+1. Strategic Advisory Services:
+Digital Transformation Roadmaps
+
+
+Product Strategy & Market Research
+
+
+Competitive Landscape Analysis
+
+
+Go-To-Market Strategy
+
+
+M&A Tech Due Diligence
+
+
+2. Technology Solutions:
+Custom Web & Mobile App Development
+
+
+Enterprise Systems Integration
+
+
+CRM and Salesforce Implementations
+
+
+Cloud Migration
+
+
+Data Engineering & AI/ML Solutions
+
+
+DevOps Implementation
+
+
+
+5. Sample Projects
+A. CRM Revamp for Synthetix Pharma (Q1 2024 - Q2 2024)
+Objective: Replace legacy CRM with Salesforce
+
+
+Team: 12 members
+
+
+PM: Ravi Menon
+
+
+Tech Lead: Emily Fox
+
+
+Backend: Ahmed Saleh, Yuna Oh
+
+
+Frontend: Kevin Lee
+
+
+QA: Shreya Nair
+
+
+Data Migration: Carlos Ramos
+
+
+Outcome: Reduced lead conversion time by 36%, improved client satisfaction by 18%
+
+
+B. Predictive Maintenance System for Omega Logistics (Ongoing)
+Objective: Develop a predictive ML model to reduce vehicle downtime
+
+
+Tech Stack: Python, AWS Sagemaker, IoT data via MQTT
+
+
+Status: MVP complete, now scaling to 500+ trucks
+
+
+C. Internal Knowledge Graph Platform (NovaIQ)
+Goal: AI-powered document retrieval and employee onboarding assistant
+
+
+Status: Beta testing within the organization
+
+
+Lead Developer: Alvin Chen
+
+
+Product Owner: Naomi Schwartz
+
+
+
+6. Team Roles and Responsibilities
+Consultant (Associate, Senior Associate, Engagement Manager)
+Work with clients to define problem statements
+
+
+Conduct industry research and competitive analysis
+
+
+Create pitch decks and strategic recommendations
+
+
+Collaborate with engineering teams for implementation
+
+
+Software Engineer (Junior, Mid, Senior)
+Build and deploy scalable codebases
+
+
+Participate in code reviews and pair programming
+
+
+Write unit and integration tests
+
+
+Collaborate with product and design teams
+
+
+Product Manager
+Define product vision and roadmap
+
+
+Prioritize features in backlog
+
+
+Liaise with stakeholders (internal & external)
+
+
+Lead agile ceremonies (stand-ups, retros, sprint planning)
+
+
+Data Scientist
+Analyze client data to derive insights
+
+
+Build ML models and evaluate performance
+
+
+Communicate findings to clients through visuals and reports
+
+
+UI/UX Designer
+Conduct user research and usability tests
+
+
+Create wireframes, mockups, and design systems
+
+
+Work closely with frontend engineers to ensure fidelity
+
+
+
+7. Onboarding Process
+Welcome Email + Portal Access (Day 0)
+
+
+HR Orientation + Culture Workshop (Day 1)
+
+
+Tool Setup (GitHub, Jira, Slack, VPN)
+
+
+Buddy Assignment (Week 1)
+
+
+Department Deep-Dive Sessions (Week 1-2)
+
+
+Assigned to First Project (Week 3-4)
+
+
+Feedback Check-in (Week 4, 8, 12)
+
+
+
+8. Culture & Expectations
+Feedback is a gift: We give and receive feedback constructively and regularly.
+
+
+Work-life balance: We maintain sustainable work hours and respect time off.
+
+
+Diversity matters: We strive to build inclusive teams and equitable hiring.
+
+
+Career growth: Every employee gets a development plan and access to mentorship.
+
+
+Hack Weeks: Twice a year, employees can propose passion projects.
+
+
+
+9. Communication Norms
+Slack for all informal comms
+
+
+Use #proj-* for project-specific channels
+
+
+Use @here for active team announcements, @channel for urgent only
+
+
+Emails for formal communication and clients
+
+
+Daily Standups: 10AM local time for all teams
+
+
+Weekly All-Hands: Thursdays at 4PM PST
+
+
+
+10. Knowledge Resources
+Confluence: Central documentation repository
+
+
+NovaEdge University: Internal LMS with courses on consulting, engineering, design
+
+
+NovaIQ Bot: ChatGPT-powered assistant for internal questions (beta)
+
+
+Templates Library: Project proposals, SOWs, pitch decks
+
+
+
+11. Career Tracks & Evaluation
+Engineering Path:
+Software Engineer → Senior SE → Lead Engineer → Principal Engineer
+
+
+Consulting Path:
+Associate → Senior Associate → Engagement Manager → Partner
+
+
+PM/Design/Data paths also follow parallel ladders. Reviews are biannual, with 360-degree feedback, project performance, and growth metrics considered.
+
+12. Frequently Asked Questions
+Q: How do I get added to a project?
+ A: Reach out to your department lead or consult the resourcing dashboard on Notion.
+
+
+Q: What if I want to switch teams?
+ A: Speak to your manager; internal mobility is encouraged every 12 months.
+
+
+Q: Can I propose a new internal tool or process?
+ A: Yes! Submit your proposal to the NovaEdge Labs committee.
+
+
+Q: Who approves PTO?
+ A: Your direct manager handles PTO requests. Submit via BambooHR.
+
+
+
+13. Fun Stuff
+#random: Memes, banter, off-topic jokes
+
+
+Quarterly Offsites: Last one was Yosemite; next one is Sedona!
+
+
+Friday Demos: Share what you built this week
+
+
+Mentorship Circles: Monthly themed small group mentoring
+
+
+
+14. Contact Directory
+IT Support: it@novaedge.co
+
+
+People Ops: hr@novaedge.co
+
+
+PMO Queries: pmo@novaedge.co
+
+
+Executive Assistant Team: ea@novaedge.co
+
+
+
+15. Final Notes
+You belong here. Whether you're strategizing with clients or building infrastructure, everything you do helps create future-ready organizations. Welcome to NovaEdge Consulting. Let’s build something incredible.
+
