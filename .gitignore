@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/config.toml
+
+# Logs and cache
+*.log
+*.sqlite3
+.cache/
+*.db
+
+# Jupyter notebooks (if any outputs are added)
+.ipynb_checkpoints/
+
+# Pip freeze outputs
+requirements.txt
+
+# Test outputs
+coverage/
+htmlcov/
+.tox/
+nosetests.xml
+*.cover
+*.py,cover
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.whl
