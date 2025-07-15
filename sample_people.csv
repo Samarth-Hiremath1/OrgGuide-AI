@@ -1,0 +1,13 @@
+name,role,department,email,location,projects,start_date,skills,reporting_manager,employee_id
+Ravi Menon,Project Manager,Project Management Office,ravi.menon@novaedge.co,San Francisco,P001,2021-06-01,"Agile, Jira, Client Comms",Rajeev Kapoor,E1001
+Emily Fox,Technical Lead,Engineering,emily.fox@novaedge.co,New York,P001,2020-09-15,"Node.js, System Architecture, DevOps",Vivian Tran,E1002
+Priya Sharma,CTO,Executive,priya.sharma@novaedge.co,San Francisco,P002,2016-04-01,"Leadership, Cloud Architecture, Innovation",Amrita Sinha,E0001
+Alvin Chen,Lead Developer,Engineering,alvin.chen@novaedge.co,Chicago,P003,2022-03-20,"LangChain, Python, RAG systems",Vivian Tran,E1003
+Naomi Schwartz,Product Owner,Product Management,naomi.schwartz@novaedge.co,London,P003,2019-11-01,"Product Strategy, User Stories, Market Research",Daniel Kwame,E1004
+Carlos Ramos,Data Migration Specialist,Engineering,carlos.ramos@novaedge.co,Bangalore,P001,2023-01-10,"ETL, SQL, Data Mapping",Emily Fox,E1005
+David Lin,Senior Data Scientist,Data & Analytics,david.lin@novaedge.co,Chicago,"P002, P004",2020-12-05,"ML Modeling, Python, Sagemaker",Rajeev Kapoor,E1006
+Sofia Zhang,AI Engineer,Data & Analytics,sofia.zhang@novaedge.co,New York,P002,2021-08-21,"TensorFlow, Data Pipelines, Cloud APIs",David Lin,E1007
+Tara West,Data Engineer,Data & Analytics,west.tara@novaedge.co,San Francisco,P004,2022-07-30,"Snowflake, dbt, Airflow",David Lin,E1008
+Hassan Ali,Analytics Consultant,Data & Analytics,hassan.ali@novaedge.co,Bangalore,P004,2020-04-14,"SQL, Tableau, Requirements Gathering",Rajeev Kapoor,E1009
+Saanvi Rao,Mobile PM,Technology Solutions,saanvi.rao@novaedge.co,San Francisco,P005,2023-05-12,"Flutter, UX Research, Sprint Planning",Vivian Tran,E1010
+Vivian Tran,Director of Engineering,Engineering,vivian.tran@novaedge.co,San Francisco,"P001, P005",2018-03-18,"Leadership, CI/CD, Cloud Security",Priya Sharma,E0010
